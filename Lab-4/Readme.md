@@ -1,5 +1,5 @@
 # Use ' gcc 4.24.c -pthread ' to compile the C file and similarly other C files. 
-# The compiled files with .out extension are also provided.
+The compiled files are also provided.
 <br><br>
 # 4.24
 Value of Pi is calculated using the monte carlo technique, which involoves randomization. Threads are used for the implementation of algorithm.
