@@ -2,7 +2,7 @@
 The compiled files are also provided.
 <br><br>
 # 4.24
-Value of Pi is calculated using the monte carlo technique, which involoves randomization. Threads are used for the implementation of algorithm.
+Value of Pi is calculated using the monte carlo technique, which involves randomization. Threads are used for the implementation of algorithm.
 <br><br>
 <br><br>
 # 4.27
