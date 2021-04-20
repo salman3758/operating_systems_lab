@@ -1,4 +1,4 @@
-# Use ' gcc 4.24.c -pthread ' to compile the C file and similarly other C files. 
+Use ' gcc 4.24.c -pthread ' to compile the C file and similarly other C files. 
 The compiled files are also provided.
 <br><br>
 # 4.24
@@ -17,3 +17,4 @@ Fibonacci sequence is generated in this task using threads but in this case we e
 Value of Pi is calculated using the monte carlo technique, But in this case we created an array of thread for multi-threading and used mutex locks to avoid race condition.
 <br><br>
 <br><br>
+
